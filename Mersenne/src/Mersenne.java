@@ -1,3 +1,5 @@
+//We'll go over this one again after Spring Break
+
 import java.util.Scanner;
 
 public class Mersenne {
